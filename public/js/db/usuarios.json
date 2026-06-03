@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 1,
+        "nombre" : "Hanna",
+        "email" : "hanna@gmail.com",
+        "password" : "1234",
+        "rol" : "admin"
+    },
+
+    {
+        "id" : 2,
+        "nombre" : "Carlos",
+        "email" : "Carlos@gmail.com",
+        "password" : "1234",
+        "rol" : "usuario"
+    },
+
+    {
+        "id" : 3,
+        "nombre" : "Kevin",
+        "email" : "kevin@gmail.com",
+        "password" : "1234",
+        "rol" : "usuario"
+    },
+
+    {
+        "id" : 4,
+        "nombre" : "Yael",
+        "email" : "yael@gmail.com",
+        "password" : "1234",
+        "rol" : "usuario"
+    }
+       
+]
